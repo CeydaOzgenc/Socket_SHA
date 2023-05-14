@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "qYezN5zNRFxLti3UVeb2GXWMMCLvIuRp002IDOpj4JDiFSM4L65NJMt4lIzx3vMgrEPuCDeZxhMer9B5RlM3bw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ceyda\\OneDrive\\Masaüstü\\CelalBayar\\3.Sınıf\\YazılımSınama\\FinalÖdev\\sha_odev\\socket\\socket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ceyda\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ceyda\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\ceyda\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\ceyda\\.nuget\\packages\\nunit3testadapter\\4.1.0\\nunit3testadapter.4.1.0.nupkg.sha512",
+    "C:\\Users\\ceyda\\.nuget\\packages\\supersimpletcp\\2.4.1.2\\supersimpletcp.2.4.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
